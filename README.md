@@ -6,14 +6,9 @@ PromptHub is a centralized prompt management system designed to create, store, v
 
 ## Table of Contents
 
-1. [[System Architecture](https://github.com/shreyas-nikam/QuCreate-Airflow/issues/19#system-architecture)](#system-architecture)
-2. [[Database Design](https://github.com/shreyas-nikam/QuCreate-Airflow/issues/19#database-design)](#database-design)
-3. [[API Design](https://github.com/shreyas-nikam/QuCreate-Airflow/issues/19#api-design)](#api-design)
-4. [[Authentication & Security](https://github.com/shreyas-nikam/QuCreate-Airflow/issues/19#authentication--security)](#authentication--security)
-5. [[Frontend Design](https://github.com/shreyas-nikam/QuCreate-Airflow/issues/19#frontend-design)](#frontend-design)
-6. [[Prompt Lifecycle Management](https://github.com/shreyas-nikam/QuCreate-Airflow/issues/19#prompt-lifecycle-management)](#prompt-lifecycle-management)
-7. [[Integration Features](https://github.com/shreyas-nikam/QuCreate-Airflow/issues/19#integration-features)](#integration-features)
-8. [[Implementation Roadmap](https://github.com/shreyas-nikam/QuCreate-Airflow/issues/19#implementation-roadmap)](#implementation-roadmap)
+1. [System Architecture](#system-architecture)
+2. [Database Design](#database-design)
+3. [API Design](#api-design)
 
 ## System Architecture
 
